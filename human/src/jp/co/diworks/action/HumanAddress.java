@@ -7,4 +7,5 @@ public class HumanAddress {
 		address = "東京";
 		return address;
 	}
+
 }

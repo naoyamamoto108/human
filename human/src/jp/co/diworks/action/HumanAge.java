@@ -7,4 +7,5 @@ public class HumanAge {
 		age = 25;
 		return age;
 	}
+
 }
